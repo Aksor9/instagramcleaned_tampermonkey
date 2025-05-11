@@ -5,6 +5,7 @@
 // @description  Hides Reels and Suggested Posts from the main Instagram feed. Might break with Instagram updates.
 // @author       Aksor9
 // @match        https://www.instagram.com/*
+// @icon         https://www.instagram.com/favicon.ico
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
